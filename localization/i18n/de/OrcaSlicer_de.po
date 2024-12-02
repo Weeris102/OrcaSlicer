@@ -33,16 +33,16 @@ msgid "Pen size"
 msgstr "Pinselgröße"
 
 msgid "Left mouse button"
-msgstr "linke Maustaste"
+msgstr "Linke Maustaste"
 
 msgid "Enforce supports"
-msgstr "Support erzwingen"
+msgstr "Stützen erzwingen"
 
 msgid "Right mouse button"
-msgstr "rechte Maustaste"
+msgstr "Rechte Maustaste"
 
 msgid "Block supports"
-msgstr "Support blockieren"
+msgstr "Stützen blockieren"
 
 msgid "Shift + Left mouse button"
 msgstr "Shift + linke Maustaste"
@@ -51,7 +51,7 @@ msgid "Erase"
 msgstr "Löschen"
 
 msgid "Erase all painting"
-msgstr "Alles gemalte löschen"
+msgstr "Alles Gemalte löschen"
 
 msgid "Highlight overhang areas"
 msgstr "Bereiche mit Überhang hervorheben"
@@ -75,7 +75,7 @@ msgid "On overhangs only"
 msgstr "Nur an Überhängen"
 
 msgid "Auto support threshold angle: "
-msgstr "Winkel für automatische Supports: "
+msgstr "Winkel für automatische Stützen: "
 
 msgid "Circle"
 msgstr "Kreis"
@@ -92,16 +92,16 @@ msgstr "Lücken füllen"
 #, boost-format
 msgid "Allows painting only on facets selected by: \"%1%\""
 msgstr ""
-"Erlaubt das malen nur auf Seiten, welche ausgewählt wurden durch: \"%1%\""
+"Erlaubt das Malen nur auf Seiten, welche ausgewählt wurden durch: \"%1%\""
 
 msgid "Highlight faces according to overhang angle."
 msgstr "Markieren der Flächen entsprechend dem Überhangwinkel."
 
 msgid "No auto support"
-msgstr "Kein automatischer Support"
+msgstr "Keine automatischen Stützen"
 
 msgid "Support Generated"
-msgstr "Support generiert"
+msgstr "Stützen generiert"
 
 msgid "Gizmo-Place on Face"
 msgstr "Gizmo auf Fläche platzieren"
